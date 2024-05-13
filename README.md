@@ -25,11 +25,11 @@ The notification system in the E-Waste Facility Locator app uses location servic
 
 ## Proposed Solution / Architecture Diagram
 
-![alt text](<e-waste 1.jpg>)
+![alt text](image-1.png)
 
 ## Use Cases
 
-![alt text](<e waste 2-1.png>)
+![alt text](image.png)
 
 ## Technology Stack
 
