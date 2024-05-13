@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 13/05/2024
+## Register Number:212223220050
+## Name:LATHIKA L J
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
