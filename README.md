@@ -29,7 +29,7 @@ The notification system in the E-Waste Facility Locator app uses location servic
 
 ## Use Cases
 
-![alt text](<e waste 2.png>)
+![alt text](<e waste 2-1.png>)
 
 ## Technology Stack
 
@@ -67,7 +67,6 @@ Notifications: Real-time notifications for users about upcoming events, updates,
 
 User Dashboard: Personalized dashboards for users to track their recycling activities, earn rewards, and engage with the platform.
 
-This setup provides a comprehensive and secure solution for managing e-waste, integrating geolocation services, ensuring data privacy, and offering an interactive user experience through web-based portals.
 ## Dependencies
 
 The E-Waste Facility Locator relies on Python with Django or Flask for backend, PostgreSQL or MySQL for database, and integrates Google Maps API for geolocation, with JWT/OAuth for authentication and Push Notifications Service for alerts.
